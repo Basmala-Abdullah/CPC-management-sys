@@ -50,5 +50,6 @@ function Profile() {
       </MDBContainer>
     </section>
   );
+
 }
 export default Profile;
